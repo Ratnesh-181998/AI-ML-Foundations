@@ -1,6 +1,8 @@
 # transformers-
 transformer 
 
+<img width="858" height="1044" alt="image" src="https://github.com/user-attachments/assets/ce1b34f7-eb2f-4bba-8bf4-8e78d8237855" />
+
 Transformers look complex until you follow the flow.
 
 At their core, they turn text into numerical representations, identify relationships between tokens, build context, and predict what should come next.
