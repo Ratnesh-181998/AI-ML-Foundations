@@ -29,3 +29,68 @@ During inference, the model receives a prompt, calculates probabilities across p
 Understanding these concepts makes LLMs feel less like magic and more like engineering.
 
 <img width="862" height="1096" alt="image" src="https://github.com/user-attachments/assets/89e8e0a9-de18-4147-9866-7d94ddeeb59a" />
+
+---
+
+The Deep Learning Formula Sheet Every AI Engineer Should Keep Handy 🧠⚡
+
+Deep Learning isn't just about using frameworks like PyTorch or TensorFlow.
+
+The engineers who build state-of-the-art AI systems understand the mathematics that powers every prediction, every gradient update, and every learned representation.
+
+To reinforce these fundamentals, I created a comprehensive Deep Learning Formula Cheat Sheet that brings together the core equations behind modern AI.
+
+📚 What's Included
+
+✅ Neuron & Perceptron Models
+✅ Activation Functions (ReLU, Sigmoid, Tanh, Softmax, GELU)
+✅ Forward Propagation
+✅ Backpropagation & Chain Rule
+✅ Gradient Descent (Batch, SGD, Mini-Batch)
+✅ Loss Functions (MSE, Cross-Entropy, Hinge, BCE)
+✅ Optimization Algorithms (Momentum, RMSProp, Adam, AdamW)
+✅ Convolutional Neural Networks (CNNs)
+✅ Recurrent Neural Networks (RNNs) & LSTMs
+✅ Attention Mechanism & Transformer Equations
+✅ Batch & Layer Normalization
+✅ Regularization Techniques (Dropout, L1, L2, Weight Decay)
+✅ Probability & Statistical Foundations
+✅ Model Evaluation Metrics
+
+Why These Formulas Matter
+
+Understanding the underlying mathematics helps you:
+• Debug models more effectively
+• Choose the right architecture for the problem
+• Tune hyperparameters with confidence
+• Interpret training behavior and convergence
+• Build more efficient and reliable AI systems
+• Move beyond using AI frameworks as "black boxes"
+
+In today's era of LLMs, Generative AI, Vision Models, and AI Agents, strong mathematical intuition remains one of the biggest differentiators between implementing models and truly understanding them.
+
+As the saying goes:
+
+AI is built with code, but it is driven by mathematics.
+
+<img width="822" height="1242" alt="image" src="https://github.com/user-attachments/assets/1965df84-4a61-42e2-b570-35daeb5f3f25" />
+
+
+---
+
+# This Machine Learning Cheat Sheet Saved Me Hours of Revision ⏳
+
+It includes:
+ ✅ Supervised & Unsupervised algorithms
+ ✅ Regression, Classification & Clustering techniques
+ ✅ PCA & Dimensionality Reduction
+ ✅ Neural Networks, CNN, RNN & Transformers
+ ✅ Assumptions, Pros/Cons & Real-world use cases
+
+
+<img width="908" height="1162" alt="image" src="https://github.com/user-attachments/assets/93136f13-d9ed-46c2-a2f8-cf7211a8c98f" />
+
+
+---
+
+
