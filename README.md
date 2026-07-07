@@ -93,4 +93,31 @@ It includes:
 
 ---
 
+A notebook is not a production ML project.
+
+It is only proof that the model worked once.
+
+Most beginners stop after training a model in Jupyter. But real ML work starts when someone else can run your project, test it, deploy it and maintain it without asking you 20 questions.
+
+That is why project structure matters.
+
+A production-ready ML project should have:
+✅ Config files for local and prod setup
+✅ Separate folders for raw, processed and feature data
+✅ Training and inference entrypoints
+✅ Notebooks for EDA and baseline work
+✅ Reusable pipelines inside src
+✅ Tests for application logic
+✅ Docker and CI files
+✅ Environment files
+✅ Clear project dependencies
+✅ README for setup and usage
+
+This is the difference between “I built a model” and “I built an ML system.”
+
+<img width="1034" height="1084" alt="image" src="https://github.com/user-attachments/assets/3c7f027b-bfdc-4dd2-9160-f4e322204b78" />
+
+
+---
+
 
