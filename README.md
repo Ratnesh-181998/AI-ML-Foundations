@@ -133,4 +133,31 @@ This is the difference between “I built a model” and “I built an ML system
 
 ---
 
+📘 Hugging Face – Complete Notes for Generative AI Engineers 🤗
+
+Learning Generative AI is not just about using pre-trained models it's about understanding the complete ecosystem behind them.
+
+To strengthen my fundamentals, I created a concise handwritten revision sheet covering the most important concepts of the Hugging Face ecosystem, including:
+
+✅ Hugging Face Architecture & Ecosystem
+✅ Transformers Library
+✅ Tokenizers & Auto Classes
+✅ Pipeline Tasks
+✅ Model Hub & Datasets
+✅ PEFT (LoRA, QLoRA, Prompt Tuning)
+✅ Diffusers & Image Generation
+✅ Accelerate & Distributed Training
+✅ TRL (RLHF, PPO, DPO)
+✅ Authentication & Hugging Face Hub
+✅ Popular Foundation Models
+✅ Complete Hugging Face Workflow
+✅ Essential APIs and Quick Revision Commands
+
+Creating structured notes helps reinforc
+
+<img width="858" height="1254" alt="image" src="https://github.com/user-attachments/assets/43bd38f7-ef19-406a-8c49-a13b6b695d5c" />
+
+
+---
+
 
