@@ -125,3 +125,12 @@ This is the difference between “I built a model” and “I built an ML system
 
 ---
 
+<img width="994" height="1228" alt="image" src="https://github.com/user-attachments/assets/af8afa33-5334-417d-973d-7bf1b38d1938" />
+
+---
+
+<img width="916" height="1264" alt="image" src="https://github.com/user-attachments/assets/22f73665-1f6a-4aad-8a9b-30e742a7a72f" />
+
+---
+
+
