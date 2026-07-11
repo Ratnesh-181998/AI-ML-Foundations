@@ -165,3 +165,6 @@ Creating structured notes helps reinforc
 ---
 
 
+<img width="872" height="1274" alt="image" src="https://github.com/user-attachments/assets/462c4a0d-19d7-422c-b4a9-273cc476e27b" />
+
+---
