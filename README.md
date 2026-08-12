@@ -186,6 +186,12 @@ Creating structured notes helps reinforc
 
 ---
 
+# [200 Concepts Across 10 Modules]()
+<img width="1049" height="1077" alt="image" src="https://github.com/user-attachments/assets/761a03cf-95dd-4ad3-b61f-b6da5a39502f" />
+
+---
+
+
 
 
 
