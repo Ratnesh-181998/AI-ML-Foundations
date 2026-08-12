@@ -1,5 +1,7 @@
-# transformers-
-transformer 
+- 200 Concepts Across 10 Modules • AI Foundations - AI, ML, DL, Neural Networks, Search, Planning, Reasoning • Mathematics - Linear Algebra, Calculus, Probability, Statistics, Optimization • Classical Machine Learning - Tree Models, Regression, Clustering, PCA, Feature Engineering • Deep Learning - CNN, RNN, LSTM, Transformers, Attention, Diffusion • Natural Language Processing - BERT, GPT, Embeddings, Prompt Engineering, LoRA, Fine-Tuning • Retrieval-Augmented Generation (RAG) - Semantic Search, Hybrid Search, BM25, Re-Ranking, Graph RAG, Agentic RAG • Agentic AI - Planning, Memory, Tool Calling, Multi-Agent, Reflection, HITL • LLMOps - Evaluation, Observability, Guardrails, Tracing, Deployment, Governance • Infrastructure - GPUs, Kubernetes, Docker, Vector DBs, Model Serving, Scalability • Enterprise AI - Governance, Security, Responsible AI, Compliance, Architecture
+
+---
+
 
 <img width="858" height="1044" alt="image" src="https://github.com/user-attachments/assets/ce1b34f7-eb2f-4bba-8bf4-8e78d8237855" />
 
