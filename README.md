@@ -193,7 +193,12 @@ Creating structured notes helps reinforc
 
 ---
 
+# AI AGENTS DEVELOPER ROADMAP
 
+<img width="806" height="1378" alt="image" src="https://github.com/user-attachments/assets/61284e2f-e014-4934-ab01-9d3d86ca2aad" />
 
+<img width="926" height="1150" alt="image" src="https://github.com/user-attachments/assets/a522fce6-1e1e-4886-a5e1-b0c0768b7954" />
+
+---
 
 
