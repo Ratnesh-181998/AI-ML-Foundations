@@ -32,6 +32,8 @@ Understanding these concepts makes LLMs feel less like magic and more like engin
 
 <img width="862" height="1096" alt="image" src="https://github.com/user-attachments/assets/89e8e0a9-de18-4147-9866-7d94ddeeb59a" />
 
+<img width="1220" height="1330" alt="image" src="https://github.com/user-attachments/assets/7b44b1f1-2007-47d6-b216-c2a587d55794" />
+
 ---
 
 The Deep Learning Formula Sheet Every AI Engineer Should Keep Handy 🧠⚡
