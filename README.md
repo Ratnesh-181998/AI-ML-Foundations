@@ -32,7 +32,6 @@ Understanding these concepts makes LLMs feel less like magic and more like engin
 
 <img width="862" height="1096" alt="image" src="https://github.com/user-attachments/assets/89e8e0a9-de18-4147-9866-7d94ddeeb59a" />
 
-<img width="1220" height="1330" alt="image" src="https://github.com/user-attachments/assets/7b44b1f1-2007-47d6-b216-c2a587d55794" />
 
 ---
 
@@ -121,6 +120,7 @@ This is the difference between “I built a model” and “I built an ML system
 
 <img width="1034" height="1084" alt="image" src="https://github.com/user-attachments/assets/3c7f027b-bfdc-4dd2-9160-f4e322204b78" />
 
+<img width="1220" height="1330" alt="image" src="https://github.com/user-attachments/assets/7b44b1f1-2007-47d6-b216-c2a587d55794" />
 
 ---
 
